@@ -1,4 +1,15 @@
 # Byte-compiled / optimized / DLL files
+# ==========================================
+# 1. Environment Variables (Secret Keys)
+# ==========================================
+.env
+
+# ==========================================
+# 2. Python Virtual Environment (Heavy Folder)
+# ==========================================
+myenv/
+
+
 __pycache__/
 *.py[codz]
 *$py.class
